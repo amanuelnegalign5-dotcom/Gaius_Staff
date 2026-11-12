@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Gaius Ministry Staff & Program System",
+  "short_name": "Gaius Staff",
+  "description": "Gaius Ministry staff attendance, Monday meetings, weekly programs and activity reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8f1",
+  "theme_color": "#216b19",
+  "icons": [
+    {"src":"assets/icon-180.png","sizes":"180x180","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
